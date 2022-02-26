@@ -1,0 +1,26 @@
+<svg id="组_1" data-name="组 1" xmlns="http://www.w3.org/2000/svg" width="356" height="353" viewBox="0 0 356 353">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+        stroke-width: 10px;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-4 {
+        stroke: #fff;
+      }
+    </style>
+  </defs>
+  <path id="矩形_1" data-name="矩形 1" class="cls-1" d="M89,89H412V412H89V89Zm0,0H412V412H89V89Zm0,0H412V412H89V89Z" transform="translate(-61 -64)"/>
+  <path id="矩形_1_拷贝" data-name="矩形 1 拷贝" class="cls-2" d="M66,69H389V392H66V69Zm0,0H389V392H66V69Zm0,0H389V392H66V69Z" transform="translate(-61 -64)"/>
+  <rect id="矩形_2" data-name="矩形 2" class="cls-3" x="77" y="71" width="231" height="231"/>
+  <rect id="矩形_2_拷贝" data-name="矩形 2 拷贝" class="cls-4" x="51" y="51" width="231" height="231"/>
+</svg>
